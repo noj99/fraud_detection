@@ -2,6 +2,10 @@ print("adding all the data processing code related to fraud detection")
 
 
 
+a=5
+b-7
+sum(a,b):
+    c=a+b
+    return a
 
-sum:
-    return a+b
+print("Added a new function sum")
